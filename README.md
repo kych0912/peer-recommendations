@@ -8,7 +8,7 @@ Developer Young-cheon Kim Recommendation Repository
   <div style="display: flex; align-items: flex-start;">
     <div>
       <h3 style="margin: 0; color: #0a66c2;">
-        <a href={"./recommendations/박민음.md"} >
+        <a href="./recommendations/박민음.md" >
           박민음
         <a/>
       </h3>

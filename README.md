@@ -1,9 +1,6 @@
 # peer-recommendations
 Developer Young-cheon Kim Recommendation Repository
 
-<div align="center">
-  <h2>Recommendations</h2>
-</div>
 <div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
   <div style="display: flex; align-items: flex-start;">
     <div>
